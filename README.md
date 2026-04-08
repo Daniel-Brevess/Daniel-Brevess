@@ -1,25 +1,25 @@
-# Olá, eu sou [Seu Nome] 👋
+# Hi, I'm Daniel Breves Nunes 👋
 
-Sou desenvolvedor **Back-End** apaixonado por criar soluções eficientes e escaláveis. Tenho experiência com desenvolvimento web e gosto de transformar lógica e algoritmos em código funcional.
+I'm a **Back-End Developer** passionate about building efficient and scalable solutions. I have experience with web development and enjoy turning logic and algorithms into functional code.
 
-## 🛠 Habilidades
+## 🛠 Skills
 
-- **Linguagens:** Java  
-- **Banco de Dados:** MySQL  
-- **Versionamento:** Git, GitHub  
-- **Conceitos:** POO, Estrutura de Dados, Lógica de Programação  
-- **Outros:** Desenvolvimento Web
+- **Languages:** Java  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms & Logic  
+- **Others:** Web Development
 
-## 🚀 Objetivos
+## 🚀 Goals
 
-- Aprimorar minhas habilidades em back-end e arquitetura de software  
-- Contribuir para projetos open source  
-- Criar aplicações web robustas e de alta performance
+- Improve my back-end and software architecture skills  
+- Contribute to open-source projects  
+- Build robust and high-performance web applications
 
-## 📫 Contato
+## 📫 Contact
 
-- Email: [seuemail@exemplo.com]  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/)  
-- GitHub: [Seu GitHub](https://github.com/SeuUsuario)
+- Email: [youremail@example.com]  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- GitHub: [Your GitHub](https://github.com/yourusername)
 
 ---
