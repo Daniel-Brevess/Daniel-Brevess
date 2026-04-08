@@ -18,8 +18,7 @@ I'm a **Back-End Developer** passionate about building efficient and scalable so
 
 ## 📫 Contact
 
-- Email: [youremail@example.com]  
+- Email: [danielbreves1.20@gmail.com]  
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- GitHub: [Your GitHub](https://github.com/yourusername)
 
 ---
