@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**Daniel-Brevess/Daniel-Brevess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor **Back-End** apaixonado por criar soluções eficientes e escaláveis. Tenho experiência com desenvolvimento web e gosto de transformar lógica e algoritmos em código funcional.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java  
+- **Banco de Dados:** MySQL  
+- **Versionamento:** Git, GitHub  
+- **Conceitos:** POO, Estrutura de Dados, Lógica de Programação  
+- **Outros:** Desenvolvimento Web
+
+## 🚀 Objetivos
+
+- Aprimorar minhas habilidades em back-end e arquitetura de software  
+- Contribuir para projetos open source  
+- Criar aplicações web robustas e de alta performance
+
+## 📫 Contato
+
+- Email: [seuemail@exemplo.com]  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/)  
+- GitHub: [Seu GitHub](https://github.com/SeuUsuario)
+
+---
