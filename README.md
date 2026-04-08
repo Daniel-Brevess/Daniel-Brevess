@@ -19,6 +19,6 @@ I'm a **Back-End Developer** passionate about building efficient and scalable so
 ## 📫 Contact
 
 - Email: [danielbreves1.20@gmail.com]  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- LinkedIn: [https://www.linkedin.com/in/daniel-breves/?skipRedirect=true]
 
 ---
