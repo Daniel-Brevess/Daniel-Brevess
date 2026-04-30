@@ -1,33 +1,58 @@
-# Hi, I'm Daniel Breves Nunes 👋
+# Hi 👋, I'm Daniel!
 
-I'm a **Back-End Developer** passionate about building efficient and scalable solutions. I have experience with web development and enjoy turning logic and algorithms into functional code.
+🚀 **Back-end developer | Java & MySQL  
+🇧🇷 Brazil
 
-## 🛠 Skills
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-- **Languages:** Java  
-- **Database:** MySQL  
-- **Version Control:** Git, GitHub  
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms & Logic  
-- **Others:** Web Development
-
-## 🚀 Goals
-
-- Improve my back-end and software architecture skills  
-- Contribute to open-source projects  
-- Build robust and high-performance web applications
-
-## 📫 Contact
-
-- Email: [danielbreves1.20@gmail.com]  
-- LinkedIn: [https://www.linkedin.com/in/daniel-breves/?skipRedirect=true]
+I am passionate about creating SaaS and entrepreneurship.
 
 ---
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleybragadev95/wesleybragadev95/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleybragadev95/wesleybragadev95/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wesleybragadev95/wesleybagadev95/output/github-contribution-grid-snake.svg">
-</picture>
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-breves/">
+    <img src="https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=linkedin" />
+  </a>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-5849BE?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Go and give your best."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
