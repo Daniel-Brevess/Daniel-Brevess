@@ -29,12 +29,13 @@ I am passionate about creating SaaS and entrepreneurship.
 
 ![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-4479A1?style=for-the-badge&logo=springboot)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-5849BE?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Maven](https://img.shields.io/badge/Maven-F24E1E?style=for-the-badge&logo=maven)
 
 ---
 
