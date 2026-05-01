@@ -1,7 +1,6 @@
 # Hi 👋, I'm Daniel!
 
-🚀 **Back-end developer | Java & MySQL  
-🇧🇷 Brazil**
+🚀 **Back-end developer | Java & MySQL  🇧🇷 Brazil**
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
