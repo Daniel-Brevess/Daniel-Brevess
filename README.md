@@ -1,7 +1,7 @@
 # Hi 👋, I'm Daniel!
 
 🚀 **Back-end developer | Java & MySQL  
-🇧🇷 Brazil
+🇧🇷 Brazil**
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
@@ -23,7 +23,6 @@ I am passionate about creating SaaS and entrepreneurship.
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
