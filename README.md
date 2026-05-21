@@ -6,7 +6,15 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 I am passionate about creating SaaS and entrepreneurship.
 
----
+
+```yaml
+nome:     "Daniel Breves Nunes"
+local:    "Rio de Janeiro, Brasil"
+curso:    "Analise e Desenvolvimento de Sistemas"
+periodo:  "3 Periodo (em andamento)"
+objetivo: "Software Engineer"
+```
+
 
 ## 🌐 Where to find me
 
