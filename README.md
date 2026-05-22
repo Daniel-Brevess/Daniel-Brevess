@@ -7,12 +7,19 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 I am passionate about creating SaaS and entrepreneurship.
 
 
-```yaml
-nome:     "Daniel Breves Nunes"
-local:    "Rio de Janeiro, Brasil"
-curso:    "Analise e Desenvolvimento de Sistemas"
-periodo:  "3 Periodo (em andamento)"
-objetivo: "Software Engineer"
+```js
+import Desenvolvedor from "Daniel-Brevess";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Daniel Breves";
+  area = "Desenvolvedor Back-end";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, Javascript, PHP"];
+  bibliotecas = ["Maven, JPA, Hibernate"];
+  frameworks = ["Spring boot"];
+}
 ```
 
 
@@ -62,11 +69,10 @@ objetivo: "Software Engineer"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Brevess&bg_color=0d1117&color=00a651&line=39d353&point=ffffff&area=true&area_color=006622&border_color=00a651" width="95%"/>
 </div>
 
-
 ## 🚀 Philosophy
 
-> _"Go and give your best."_
-
+> _"Go and
+> give your best."_
 ---
 
 ⭐ If you like my work, consider starring a repository  
