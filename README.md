@@ -7,20 +7,31 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 I am passionate about creating SaaS and entrepreneurship.
 
 
+<table>
+<tr>
+<td width="60%">
+
 ```js
-import Desenvolvedor from "Daniel-Brevess";
+import Developer from "Daniel-Breves";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Daniel Breves";
-  area = "Desenvolvedor Back-end";
+class AboutMe extends Developer {
+  name = "Daniel Breves";
+  role = "Back-end Developer";
+  location = "Brazil";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Java, Javascript, PHP"];
-  bibliotecas = ["Maven, JPA, Hibernate"];
-  frameworks = ["Spring boot"];
+class Skills extends Developer {
+  languages = ["Java", "JavaScript", "PHP"];
+  libraries = ["Maven", "JPA", "Hibernate"];
+  frameworks = ["Spring Boot"];
+  databases = ["MySQL"];
 }
-```
+````
+</td> <td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat gif" />
+
+</td> </tr> </table>
 
 
 ## 🌐 Where to find me
@@ -50,15 +61,6 @@ class Skills extends Desenvolvedor {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-5849BE?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-F24E1E?style=for-the-badge&logo=maven)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
